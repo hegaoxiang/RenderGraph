@@ -1,0 +1,19 @@
+{
+    "name": "colorful.RenderGraph.Editor",
+    "rootNamespace": "",
+    "references": [
+        "colorful.RenderGraph",
+        "Unity.RenderPipelines.Core.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
